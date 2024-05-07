@@ -1,0 +1,11 @@
+{
+  "SlackWebhookUrl" : "ICOMMING-SLACK-WEBHOOK-URI",
+  "SlackChannel" : "TEST-SLACK-CHANNEL",
+  "SlackUserName" : "Resource Alarm",
+  "SlackEmoji" : ":polar_bear:",
+
+  "CloudTrailScanDurationMinutes" : 14400,
+  "CloudTrailMaxResultCount" : 1000,
+
+  "ResourceExplorerMaxResultCount" : 1000
+}

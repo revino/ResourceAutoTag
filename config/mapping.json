@@ -1,0 +1,16 @@
+{
+  "Mapping": [
+    {
+      "CTEventName" : "RunInstances",
+      "CTEventSource": "ec2.amazonaws.com",
+      "REResourceType": "ec2:instance",
+      "Global": false
+    },
+    {
+      "CTEventName" : "CreateBucket",
+      "CTEventSource": "s3.amazonaws.com",
+      "REResourceType": "s3:bucket",
+      "Global": true
+    }
+  ]
+}
